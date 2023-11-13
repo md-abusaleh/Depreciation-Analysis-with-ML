@@ -1,0 +1,49 @@
+Age,Gender,Educational_Status,Professional_Status,Marital_Status,Location,Live_With,Debt,Exercise,Smoke,Drink,Illness,Sleep_Time,Work_Pressure,Eating_Disorder,Cheated,Mistreated,Suicidal,Lost,Prayer,Depressed
+22,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Never,No,No,No,7 hours,No,No,No,No,No,No,Yes,No
+24,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,Sometimes,7 hours,Yes,Yes,No,No,No,Yes,Yes,Yes
+24,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,Yes,Sometimes,Sometimes,5 hours,Moderate,Yes,No,No,No,Maybe,Sometimes,Maybe
+22,Male,BSc Student,Unemployed,Divorced,Village,Family,Yes,Never,Yes,Sometimes,No,7 hours,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+22,Male,BSc Student,Unemployed,Unmarried,Village,Friend,No,Sometimes,No,No,Yes,6 hours,Moderate,Maybe,No,Yes,No,Maybe,Sometimes,Maybe
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Daliy,Yes,No,No,6 hours,Moderate,Maybe,Yes,Yes,No,No,Sometimes,Maybe
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Never,Yes,No,No,6 hours,Yes,Yes,No,Yes,No,Maybe,Sometimes,Maybe
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,Sometimes,6 hours,Moderate,Yes,No,No,No,No,Yes,No
+22,Male,BSc Student,Employed,Unmarried,City,Family,Yes,Sometimes,No,No,No,6 hours,Yes,No,No,No,No,Yes,No,No
+21,Female,BSc Student,Unemployed,Unmarried,City,Family,No,Never,No,No,Sometimes,5 hours,Yes,Maybe,No,No,No,Maybe,Sometimes,Maybe
+22,Male,BSc Student,Unemployed,Unmarried,Village,Family,No,Never,No,No,Yes,6 hours,Yes,Yes,No,Yes,No,Yes,Sometimes,Yes
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,Sometimes,No,No,7 hours,No,No,No,Yes,Maybe,No,Sometimes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,No,6 hours,Yes,No,Yes,No,No,No,Sometimes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Friend,No,Sometimes,No,No,No,6 hours,Moderate,No,No,No,No,No,Yes,No
+22,Male,BSc Student,Unemployed,Unmarried,Village,Alone,No,Sometimes,Yes,Yes,No,7 hours,Yes,Yes,No,No,No,No,Sometimes,Maybe
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,Yes,Never,Yes,Yes,Yes,5 hours,No,Yes,No,No,No,Yes,No,Yes
+24,Male,BSc Student,Unemployed,Married,City,Family,No,Sometimes,Yes,No,No,5 hours,Moderate,Maybe,No,No,No,No,Sometimes,No
+23,Male,BSc Student,Unemployed,Married,City,Family,Yes,Sometimes,No,No,No,4 hours,Yes,Yes,Yes,Yes,Maybe,Yes,Yes,Yes
+21,Male,BSc Student,Unemployed,Unmarried,City,Family,Yes,Sometimes,No,No,No,More than 8 hours,Yes,Yes,Yes,Yes,Yes,Yes,Sometimes,Yes
+21,Male,BSc Student,Unemployed,Unmarried,Village,Friend,No,Sometimes,No,No,Sometimes,5 hours,Moderate,No,No,Yes,No,No,Yes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,Yes,Sometimes,Yes,Yes,No,6 hours,Yes,Maybe,No,No,No,Yes,Sometimes,Maybe
+22,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Never,Yes,No,Sometimes,6 hours,Moderate,Maybe,No,No,No,Maybe,No,Maybe
+22,Male,BSc Student,Unemployed,Unmarried,City,Family,Yes,Never,No,No,No,5 hours,No,No,Yes,Yes,No,No,Yes,No
+20,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,No,6 hours,No,No,Yes,No,No,No,Yes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,Yes,More than 8 hours,No,Yes,No,No,No,Yes,Yes,Yes
+26,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,Yes,No,No,4 hours,Yes,Yes,No,No,No,No,Sometimes,Yes
+22,Male,BSc Student,Unemployed,Unmarried,Village,Friend,Yes,Sometimes,No,Yes,No,More than 8 hours,No,No,No,No,No,No,Sometimes,No
+23,Female,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,Sometimes,6 hours,Moderate,Yes,Yes,Yes,Yes,Yes,Sometimes,Yes
+22,Female,BSc Student,Unemployed,Married,City,Family,No,Sometimes,No,No,Sometimes,6 hours,No,No,No,No,No,No,Yes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Friend,No,Sometimes,Sometimes,Sometimes,No,6 hours,Yes,Maybe,No,No,No,No,Sometimes,No
+22,Male,BSc Student,Unemployed,Unmarried,City,Friend,No,Sometimes,No,No,No,7 hours,Moderate,No,No,No,No,No,Sometimes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Friend,No,Sometimes,Yes,Sometimes,No,6 hours,Yes,Yes,No,Yes,No,Maybe,Sometimes,Maybe
+23,Male,BSc Student,Unemployed,Unmarried,City,Family,Yes,Never,Sometimes,No,No,7 hours,No,Yes,Yes,Yes,No,No,No,Yes
+22,Male,BSc Student,Unemployed,Married,City,Family,No,Never,No,No,No,More than 8 hours,Yes,No,No,No,No,No,Sometimes,No
+24,Male,BSc Student,Unemployed,Unmarried,City,Friend,No,Sometimes,No,No,Sometimes,5 hours,Yes,Maybe,No,No,No,No,Yes,No
+22,Male,BSc Student,Unemployed,Married,City,Friend,Yes,Sometimes,No,No,No,6 hours,Moderate,No,No,No,No,No,Yes,No
+22,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,No,6 hours,No,No,No,No,No,No,No,No
+21,Male,BSc Student,Unemployed,Unmarried,City,Alone,No,Sometimes,No,No,Yes,4 hours,Yes,Maybe,No,No,No,No,Yes,No
+23,Male,BSc Student,Unemployed,Unmarried,Village,Alone,No,Never,Sometimes,No,Sometimes,4 hours,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+21,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,Yes,No,Sometimes,7 hours,Moderate,No,No,No,No,No,Yes,No
+20,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,Yes,Yes,No,5 hours,Yes,No,Yes,Yes,No,No,Yes,No
+21,Male,BSc Student,Employed,Unmarried,City,Family,No,Sometimes,No,No,No,6 hours,Yes,No,No,No,No,No,No,No
+22,Male,BSc Student,Unemployed,Unmarried,City,Family,Yes,Never,No,No,Sometimes,6 hours,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+22,Male,BSc Student,Unemployed,Married,City,Alone,Yes,Never,No,No,Yes,More than 8 hours,Yes,Yes,No,Yes,Maybe,No,Sometimes,Yes
+22,Male,BSc Student,Unemployed,Unmarried,Village,Friend,Yes,Sometimes,Yes,Yes,No,6 hours,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+23,Male,BSc Student,Unemployed,Married,City,Family,Yes,Sometimes,No,No,No,4 hours,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+22,Male,BSc Student,Unemployed,Unmarried,City,Family,No,Sometimes,No,No,No,5 hours,Moderate,No,No,No,No,No,Yes,No
+23,Male,BSc Student,Unemployed,Unmarried,City,Alone,No,Sometimes,No,No,No,6 hours,Yes,No,No,No,No,No,Sometimes,No
